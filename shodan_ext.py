@@ -2,7 +2,7 @@ import shodan
 import argparse
 import re
 
-SHODAN_API_KEY = "17xz7MYEBoXLPoi8RdqbgkPwTV2T2H0y"
+SHODAN_API_KEY = ""
 file = open('shodan.txt', 'w')
 ip = []
 url = []
